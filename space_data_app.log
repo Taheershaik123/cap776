@@ -1,0 +1,32 @@
+2024-10-05 15:54:20,020 - INFO - Space Data Application started
+2024-10-05 15:54:20,035 - INFO - login_credincial.csv created successfully.
+2024-10-05 15:54:26,267 - INFO - User attempting to sign up
+2024-10-05 15:55:01,827 - INFO - New user signed up: taheer54@gmail.com
+2024-10-05 15:55:06,963 - INFO - User attempting to log in
+2024-10-05 15:55:24,322 - INFO - User logged in successfully: taheer54@gmail.com
+2024-10-05 15:55:30,582 - INFO - Fetching NEO data
+2024-10-05 15:55:37,671 - INFO - User logged out
+2024-10-05 15:55:47,699 - INFO - Space Data Application exited
+2024-10-05 16:30:21,175 - INFO - Space Data Application started
+2024-10-05 16:30:27,016 - INFO - User attempting to sign up
+2024-10-05 16:31:26,055 - INFO - New user signed up: vamsi123@gmail.com
+2024-10-05 16:31:33,916 - INFO - User attempting to sign up
+2024-10-05 16:32:04,714 - INFO - New user signed up: mahendra123@gmail.com
+2024-10-05 16:32:39,703 - INFO - User attempting to log in
+2024-10-05 16:32:55,151 - INFO - User logged in successfully: vamsi123@gmail.com
+2024-10-05 16:33:11,667 - INFO - Fetching NEO data
+2024-10-05 16:35:34,564 - INFO - Fetching SSD data for object: 433
+2024-10-05 16:35:36,265 - ERROR - Requested resource not found
+2024-10-05 16:35:36,269 - WARNING - No data found for the object: 433
+2024-10-05 16:36:12,429 - INFO - Fetching SSD data for object: 433
+2024-10-05 16:36:13,692 - ERROR - Requested resource not found
+2024-10-05 16:36:13,692 - WARNING - No data found for the object: 433
+2024-10-05 16:36:29,152 - INFO - Fetching SSD data for object: marse
+2024-10-05 16:36:30,464 - ERROR - Requested resource not found
+2024-10-05 16:36:30,480 - WARNING - No data found for the object: marse
+2024-10-05 16:36:39,160 - INFO - Fetching SSD data for object: mars
+2024-10-05 16:37:21,162 - INFO - Fetching NEO data
+2024-10-05 16:38:03,375 - INFO - User logged out
+2024-10-05 16:38:07,309 - INFO - User attempting to reset password
+2024-10-05 16:38:48,399 - INFO - Password reset successful for email: vamsi123@gmail.com
+2024-10-05 16:39:06,142 - INFO - Space Data Application exited
